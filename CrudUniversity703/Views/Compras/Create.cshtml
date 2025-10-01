@@ -1,0 +1,31 @@
+﻿@model CrudUniversity703.Models.Compra
+@{
+    ViewBag.Title = "Nueva Compra";
+    var productos = ViewBag.Productos as List<CrudUniversity703.Models.Producto>;
+}
+
+<div class="container mt-4">
+    <h2>Nueva Compra</h2>
+
+    <form asp-action="Create">
+        <div class="mb-3">
+            <label class="form-label">Producto</label>
+            <select asp-for="ProductoId" class="form-select" required>
+                <option value="">-- Seleccione un producto --</option>
+                @foreach (var p in productos)
+                {
+                    <option value="@p.Id">@p.Nombre - $@p.Precio</option>
+                }
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Cantidad" class="form-label"></label>
+            <input asp-for="Cantidad" class="form-control" />
+            <span asp-validation-for="Cantidad" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Guardar</button>
+        <a asp-action="Index" class="btn btn-secondary">Volver</a>
+    </form>
+</div>

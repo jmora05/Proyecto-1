@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using CRUDUniversity703.Models;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;    
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using CrudUniversity703.Models;
 
 namespace CRUDUniversity703.Data
 {
@@ -10,9 +10,8 @@ namespace CRUDUniversity703.Data
         {
             
         }
-        public DbSet<Student> Students { get; set; }
-        public DbSet<Enrollment> Enrollments { get; set; }
-        public DbSet<Course> Courses { get; set; }
+        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Compra> Compras { get; set; }
 
     }
 }
