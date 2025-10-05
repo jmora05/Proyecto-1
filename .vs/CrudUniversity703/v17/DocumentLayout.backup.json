@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Migrations\\20251002042235_jos0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudUniversity703\\Migrations\\20251002042235_jos0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|c:\\users\\power\\desktop\\sena\\proyecto\\cruduniversity703\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5E6F8F-7A08-4EAE-A4A9-2D1DA72F4DA9}|CrudUniversity703\\CRUDUniversity703.csproj|solutionrelative:cruduniversity703\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudUniversity703\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T04:24:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251002042235_jos0.cs",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Migrations\\20251002042235_jos0.cs",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Migrations\\20251002042235_jos0.cs",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Migrations\\20251002042235_jos0.cs",
+              "RelativeToolTip": "CrudUniversity703\\Migrations\\20251002042235_jos0.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:22:36.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudUniversity703\\appsettings.json",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\appsettings.json",
+              "RelativeToolTip": "CrudUniversity703\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T04:14:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CrudUniversity703\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:11:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudUniversity703\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:08:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Program.cs",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Program.cs",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Program.cs",
+              "RelativeToolTip": "CrudUniversity703\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:07:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "CrudUniversity703\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T03:37:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "CrudUniversity703\\Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T03:32:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "CrudUniversity703\\Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T01:55:59.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Models\\Ventas.cs",
+              "RelativeToolTip": "CrudUniversity703\\Models\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:50:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "CrudUniversity703\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\power\\Desktop\\Sena\\Proyecto\\CrudUniversity703\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "CrudUniversity703\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:35:42.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
